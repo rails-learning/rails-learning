@@ -20,6 +20,11 @@ Blog.
 
 
 
+##[Ruby on Rails Tutorial][3]
+
+[Ruby on Rails Tutorial][3] 是一本 `Ruby on Rails` 的在线书籍， 这本书中会指导你如何创建一个较为完整的类似于 `twitter` 的
+web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确认你看的版本和你使用的 `Rails` 版本要一致。
+
 
 
 
@@ -40,4 +45,5 @@ Blog.
 
 
 [1]:http://guides.rubyonrails.org/
-[2]:http://guides.rubyonrails.org/getting_started.html 
+[2]:http://guides.rubyonrails.org/getting_started.html
+[3]:http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
