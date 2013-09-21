@@ -41,9 +41,17 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 推荐的书籍， 不要错过哦。
 
 
+##[Rails Forum][7]
 
+这个 [Rails Forum][7] 也不错.
 
+## Rails 相关博客
 
+[best-way-to-learn-ruby-rails][8]
+
+[Ruby on Rails 实战圣经][9] (`Rails 3` `繁体`) 
+
+[如何从 0 开始学会 Ruby on Rails][10]
 
 
 
@@ -58,3 +66,7 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [4]:http://railscasts.com/
 [5]:http://astonj.com/tech/best-way-to-learn-ruby-rails/
 [6]:http://pragprog.com/book/rails4/agile-web-development-with-rails-4
+[7]:https://railsforum.com/
+[8]:http://astonj.com/tech/best-way-to-learn-ruby-rails/
+[9]:http://ihower.tw/rails3/
+[10]:http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails/
