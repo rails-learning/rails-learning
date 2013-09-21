@@ -55,7 +55,7 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 [Everyday Rails][11]
 
-
+[explanation-of-mvc-ruby-on-rails][12]
 
 
 
@@ -71,3 +71,4 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [9]:http://ihower.tw/rails3/
 [10]:http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails/
 [11]:http://everydayrails.com/
+[12]:http://blog.elliottheis.com/post/3461828705/explanation-of-mvc-ruby-on-rails
