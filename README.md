@@ -58,8 +58,8 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [explanation-of-mvc-ruby-on-rails][12]
 
 
-## 不是 Rails ，比 Rails 更重要
-`Rails` 来自 [37signals][13], 或许你有兴趣了解一下[37signals][13] 和 它们的书：
+## 不是 Rails 
+`Rails` 来自 [37signals][13]， 或许你有兴趣了解一下 [37signals][13] 和 它们的书，相信你会收益很多哦：
 - [Getting Real][14]
 - [Rework][15]
 
