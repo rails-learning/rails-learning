@@ -58,6 +58,10 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [explanation-of-mvc-ruby-on-rails][12]
 
 
+## 不是 Rails ，比 Rails 更重要
+`Rails` 来自 [37signals][13], 或许你有兴趣了解一下[37signals][13] 和 它们的书：
+- [Getting Real][14]
+- [Rework][15]
 
 
 [1]:http://guides.rubyonrails.org/
@@ -72,3 +76,6 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [10]:http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails/
 [11]:http://everydayrails.com/
 [12]:http://blog.elliottheis.com/post/3461828705/explanation-of-mvc-ruby-on-rails
+[13]:http://37signals.com/
+[14]:http://gettingreal.37signals.com/3705222012-getting_real.pdf
+[15]:http://sharkinfestedcustard.files.wordpress.com/2011/10/rework-jason-fried.pdf
