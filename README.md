@@ -11,3 +11,33 @@ rails-learning
 
 
 
+---
+##[Rails Guide][1]
+
+[Rails Guide][1] 是第一个需要看的 `Rails` 学习文档，是 `Rails` project 的官方 `release` 的文档.
+它可能是 `Rails` 文档中最好的一个入门资料了。你可以从 [Getting Started with Rails][2] 开始，学习如何利用 `Rails` 搭建一个 
+Blog.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]:http://guides.rubyonrails.org/
+[2]:http://guides.rubyonrails.org/getting_started.html 
