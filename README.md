@@ -1,4 +1,13 @@
 rails-learning
 ==============
 
-how to start learning Ruby on Rails from scratch
+如何从 0 开始 学习 Ruby on Rails？ 有哪些资源可以学习，哪些书可以参考？
+
+我是一个 rails 新手，开始学习 Rails的时候，遇到上面那些问题，花了不少时间才找到答案。
+
+所以:
+
+创建这个 repo 来汇集那些优秀的 Rails 学习资源，希望跟我一样的 新手可以受益。
+
+
+
