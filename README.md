@@ -53,7 +53,7 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 [如何从 0 开始学会 Ruby on Rails][10]
 
-
+[Everyday Rails][11]
 
 
 
@@ -70,3 +70,4 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [8]:http://astonj.com/tech/best-way-to-learn-ruby-rails/
 [9]:http://ihower.tw/rails3/
 [10]:http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails/
+[11]:http://everydayrails.com/
