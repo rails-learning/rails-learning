@@ -27,7 +27,10 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 
 
+##[Railscast][4]
 
+
+[Railscast][4] 上面是很多视频资料帮助你学习如何使用 Rails. 
 
 
 
@@ -47,3 +50,4 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [1]:http://guides.rubyonrails.org/
 [2]:http://guides.rubyonrails.org/getting_started.html
 [3]:http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+[4]:http://railscasts.com/
