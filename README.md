@@ -35,6 +35,11 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 
 
+##[Agile web development with Rails 4][6]
+
+[Agile web development with Rails 4][6] 是 `Rails` 的作者和另外两个人合著的一本介绍 `Rails` 开发的书籍，也是 `Rails` 官方
+推荐的书籍， 不要错过哦。
+
 
 
 
@@ -51,3 +56,5 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [2]:http://guides.rubyonrails.org/getting_started.html
 [3]:http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 [4]:http://railscasts.com/
+[5]:http://astonj.com/tech/best-way-to-learn-ruby-rails/
+[6]:http://pragprog.com/book/rails4/agile-web-development-with-rails-4
