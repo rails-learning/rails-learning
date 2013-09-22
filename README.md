@@ -43,7 +43,9 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 ##[Rails Forum][7]
 
-这个 [Rails Forum][7] 也不错.
+- 这个 [Rails Forum][7] 不错.
+- [Ruby Forum][16]
+
 
 ## Rails 相关博客
 
@@ -79,3 +81,4 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 [13]:http://37signals.com/
 [14]:http://gettingreal.37signals.com/3705222012-getting_real.pdf
 [15]:http://sharkinfestedcustard.files.wordpress.com/2011/10/rework-jason-fried.pdf
+[16]:https://www.ruby-forum.com/
