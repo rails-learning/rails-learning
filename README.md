@@ -49,15 +49,15 @@ web app,这本书涵盖的内容也很丰富，有一点需要注意的是：确
 
 ## Rails 相关博客
 
-[best-way-to-learn-ruby-rails][8]
+- [best-way-to-learn-ruby-rails][8]
 
-[Ruby on Rails 实战圣经][9] (`Rails 3` `繁体`) 
+- [Ruby on Rails 实战圣经][9] (`Rails 3` `繁体`) 
 
-[如何从 0 开始学会 Ruby on Rails][10]
+- [如何从 0 开始学会 Ruby on Rails][10]
 
-[Everyday Rails][11]
+- [Everyday Rails][11]
 
-[explanation-of-mvc-ruby-on-rails][12]
+- [explanation-of-mvc-ruby-on-rails][12]
 
 
 ## 不是 Rails 
